@@ -6,13 +6,8 @@
 
 ## 📱 Features
 
-- 🛍️ Browse restaurants and food categories
-- 🔍 Search and filter food items
+- 🛍️ Browse food categories
 - 🧺 Add to cart and place orders
-- 💳 Integrate with payment gateways (e.g., Stripe)
-- 📦 View order history and live order tracking
-- 🔐 User authentication (Sign In/Sign Up)
-- 🔔 Push notifications for order updates
 
 ---
 
@@ -35,7 +30,6 @@
 - Expo CLI (`npm install -g expo-cli`)
 - Android Studio or Xcode (for emulator/simulator)
 - Firebase project (optional)
-- Stripe account (optional)
 
 ### Installation
 
@@ -82,14 +76,6 @@ foodie-app/
 
 ---
 
-## 🚀 Roadmap
-
-- [x] Core functionality (Browse, Cart, Checkout)
-- [x] Firebase Authentication
-- [ ] Real-time order tracking with sockets
-- [ ] Restaurant/Admin dashboard (web)
-- [ ] Ratings & Reviews
-
 ---
 
 ## 🤝 Contributing
@@ -130,4 +116,3 @@ For inquiries or feedback, please contact:
 
 ---
 
-Feel free to customize this template further to align with your project's specific requirements and branding. 
